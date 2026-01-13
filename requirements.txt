@@ -1,6 +1,6 @@
 # Web Scraping
 requests==2.32.5
-bs4==4.14.2 (BeautifulSOup)
+bs4==4.14.2 (BeautifulSoup)
 
 # Data Manipulation
 pandas==2.3.3
@@ -9,5 +9,6 @@ numpy==2.2.6
 # Data Visualization
 matplotlib==3.10.7
 seaborn==0.13.2
+
 
 
