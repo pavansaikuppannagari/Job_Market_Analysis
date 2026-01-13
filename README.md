@@ -19,17 +19,17 @@ This project is an end-to-end Exploratory Data Analysis (EDA) of the Indian job 
 **1. Salary Distribution (KDE Plot)**
 Analyzed the density of salary offerings across the dataset.
 
-**Insight**: Most professional roles cluster between ₹4.5L and ₹6.5L, with a high-end tail reaching ₹10.8L.
+**Insight**: Most professional roles cluster between **₹4.5L** and **₹6.5L**, with a high-end tail reaching ₹10.8L.
 
 **2. Location-wise Salary Variance (Boxplot)**
 Compared how different cities pay for the same experience levels.
 
-**Insight**: Hyderabad and Kolkata emerged as high-paying hubs, while Bengaluru maintains the highest job volume.
+**Insight**: **Hyderabad** and **Kolkata** emerged as high-paying hubs, while **Bengaluru** maintains the highest job volume.
 
 **3. Experience vs. Employment Type (Subplots)**
 A dual analysis using Pie and Bar charts.
 
-**Insight**: The market is 95.5% Full-time, signaling a high demand for permanent, stable talent over gig work.
+**Insight**: The market is **95.5% Full-time**, signaling a high demand for permanent, stable talent over gig work.
 
 **4. Correlation & Intensity (Heatmap)**
 Mapped the relationship between Industry, Experience, and Salary.
@@ -46,4 +46,9 @@ Mapped the relationship between Industry, Experience, and Salary.
 **Solution**: Instead of dropping data, I performed Market-Standard Imputation based on real-time industry benchmarks for each experience level.
 
 # 🏁 Conclusion
-The analysis confirms that the Indian job market is currently Candidate-Driven for specialized "Associate" roles. While IT remains the volume leader, Professional Services and Software Development remain the most lucrative sectors for entry-level and mid-level talent.
+The analysis confirms that the Indian job market is currently **Candidate-Driven** for specialized "Associate" roles. While IT remains the volume leader, Professional Services and Software Development remain the most lucrative sectors for entry-level and mid-level talent.
+
+# 📬 Contact & Connect
+**LinkedIn**: www.linkedin.com/in/pavansaikuppannagari
+
+**Email**: pavansaikuppannagari@gmail.com
